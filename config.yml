@@ -1,0 +1,20 @@
+baseurl: https://jaigansa.netlify.app/
+languageCode: en-us
+theme: hugo-theme-stack
+paginate: 5
+title: JAIGANSA
+
+languages:
+    en:
+        languageName: English
+        title: Example Site
+        weight: 1
+    ta:
+        languageName: Tamil
+        title: 演示站点
+        weight: 2
+    tan:
+        languageName: Tanglish
+        languagedirection: Jaigansa
+        title: موقع تجريبي
+        weight: 3
