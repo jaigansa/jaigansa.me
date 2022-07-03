@@ -7,14 +7,14 @@ title: JAIGANSA
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: JAIGANSA
         weight: 1
     ta:
         languageName: Tamil
-        title: 演示站点
+        title: ஜெய்கன்சா
         weight: 2
     tan:
         languageName: Tanglish
         languagedirection: Jaigansa
-        title: موقع تجريبي
+        title: jaigansa
         weight: 3
