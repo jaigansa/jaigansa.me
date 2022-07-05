@@ -1,6 +1,6 @@
 
 # Final link https://jaigansa.netlify.app
-baseurl: ""
+baseurl: "https://jaigansa.netlify.app"
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -23,7 +23,7 @@ languages:
 
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: jaigansa
 
 
 # GA Tracking ID
