@@ -1,6 +1,6 @@
 ---
 title: About
-description: Jaigansa, Graphics Design To Engineering Design and Creative Welder
+description: Jaigansa, Graphics Design and Creative Welder
 date: '2022-05-10'
 aliases:
   - about-us
