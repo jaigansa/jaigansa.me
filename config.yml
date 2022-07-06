@@ -12,7 +12,7 @@ languages:
         title: JAIGANSA
         weight: 1
     ta:
-        languageName: Tamil
+        languageName: தமிழ்
         title: ஜெய்கன்சா
         weight: 2
     tan:
