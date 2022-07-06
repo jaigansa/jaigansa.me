@@ -1,34 +1,32 @@
 ---
 title: About
-description: Jaigansa, Graphics Design and Creative Welder
-date: '2022-05-10'
+description: Personal Information
+date: '1994-04-19'
 aliases:
   - about-us
   - about-jaigansa
   - contact
-license: CC BY-NC-ND
+license: CC BY-NC-ND 4.0
 lastmod: '2022-10-09'
 menu:
     main:
         weight: -90
         params:
             icon: user
+
+comments: false
+
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## ABOUT ME
 
-Hugo makes use of a variety of open source projects including:
+My Name is JaiGanesh and I was born in 1994, I studied B.sc-ISM, My Profession is **Welder** , My Hobby is Graphics Design.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## CONTACT
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+[E-MAIL](mailto:jaigansa@gmail.com)
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+## LICENSE
