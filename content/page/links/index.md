@@ -7,35 +7,35 @@ menu:
 
 comments: false
 
+article-time: false
+
 title: Links
+
+
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com/jaigansa
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: JAIGANSA
+    description: This is Our Personal Portofolio, Showcase, & Digital Worlds
+    website: https://jaigansa.me
+    image: jaigansa.svg
+
+  - title: Sri JaiGanesh Industry
+    description: Our Family Business Load Vechile Body Build Work & Arc Welding Works Real World Projects
+    website: https://srijaiganesh.blogspot.com
+    image: SJG_Industry.svg
+
+  - title: New Bolt Nut Shop
+    description: Our Bolt Nut Spare item Shop
+    website: https://boltnutshop.blogspot.com
+    image: 
+
+  - title: Zticker
+    description: Startup Sticker Shop, artwork decal Stickers available here.
+    website: https://zticker.in
+    image: zticker.svg
+
+  - title: AutobotsGamings
+    description: In our Sparetime connect to   Digital world in real world Friends & Family
+    website: https://AutobotsGamings.blogspot.com
+    image: autobots_gamings.svg
 
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-[About]({{< ref "/page/about" >}} "About Us")
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
